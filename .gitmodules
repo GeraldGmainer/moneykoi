@@ -1,17 +1,17 @@
 [submodule "budget-fusion-app"]
 	path = budget-fusion-app
-	url = git@github-budget-fusion:GeraldGmainer/budget-fusion-app.git
+	url = git@github-budget-fusion:GeraldGmainer/moneykoi-app.git
 [submodule "budget-fusion-assets"]
 	path = budget-fusion-assets
-	url = git@github-budget-fusion:GeraldGmainer/budget-fusion-assets.git
+	url = git@github-budget-fusion:GeraldGmainer/moneykoi-assets.git
 [submodule "budget-fusion-web"]
 	path = budget-fusion-web
-	url = git@github-budget-fusion:GeraldGmainer/budget-fusion-web.git
+	url = git@github-budget-fusion:GeraldGmainer/moneykoi-web.git
 [submodule "budget-fusion-supabase"]
 	path = budget-fusion-supabase
-	url = git@github-budget-fusion:GeraldGmainer/budget-fusion-supabase.git
+	url = git@github-budget-fusion:GeraldGmainer/moneykoi-supabase.git
 [submodule "budget-fusion-testdata"]
 	path = budget-fusion-testdata
-	url = git@github-budget-fusion:GeraldGmainer/budget-fusion-testdata.git
+	url = git@github-budget-fusion:GeraldGmainer/moneykoi-testdata.git
 
 
