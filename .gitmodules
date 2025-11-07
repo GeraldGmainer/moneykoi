@@ -1,17 +1,20 @@
-[submodule "budget-fusion-app"]
-	path = budget-fusion-app
-	url = git@github-budget-fusion:GeraldGmainer/moneykoi-app.git
-[submodule "budget-fusion-assets"]
-	path = budget-fusion-assets
-	url = git@github-budget-fusion:GeraldGmainer/moneykoi-assets.git
-[submodule "budget-fusion-web"]
-	path = budget-fusion-web
-	url = git@github-budget-fusion:GeraldGmainer/moneykoi-web.git
-[submodule "budget-fusion-supabase"]
-	path = budget-fusion-supabase
-	url = git@github-budget-fusion:GeraldGmainer/moneykoi-supabase.git
-[submodule "budget-fusion-testdata"]
-	path = budget-fusion-testdata
-	url = git@github-budget-fusion:GeraldGmainer/moneykoi-testdata.git
-
-
+[submodule "moneykoi-app"]
+	path = moneykoi-app
+	url = git@github.com:GeraldGmainer/moneykoi-app.git
+	branch = main
+[submodule "moneykoi-assets"]
+	path = moneykoi-assets
+	url = git@github.com:GeraldGmainer/moneykoi-assets.git
+	branch = main
+[submodule "moneykoi-supabase"]
+	path = moneykoi-supabase
+	url = git@github.com:GeraldGmainer/moneykoi-supabase.git
+	branch = main
+[submodule "moneykoi-testdata"]
+	path = moneykoi-testdata
+	url = git@github.com:GeraldGmainer/moneykoi-testdata.git
+	branch = main
+[submodule "moneykoi-web"]
+	path = moneykoi-web
+	url = git@github.com:GeraldGmainer/moneykoi-web.git
+	branch = main
