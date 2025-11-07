@@ -1,21 +1,22 @@
-# Budget Fusion
+# MoneyKoi
 
-Welcome to **Budget Fusion**, a comprehensive solution for managing your budget efficiently.
+MoneyKoi is a personal finance app focused on clarity, speed, and offline-first budgeting.
+This repository is the root workspace containing the project modules.
 
 ## Submodules
 
 This repository serves as the root of the project. Below are the submodules that form part of Budget Fusion:
 
-- [Budget Fusion App](https://github.com/GeraldGmainer/budget-fusion-app): The Flutter app
-- [Budget Fusion Web](https://github.com/GeraldGmainer/budget-fusion-web): The web interface
-- [Budget Fusion Supabase](https://github.com/GeraldGmainer/budget-fusion-supabase): The backend and database setup with Supabase
-- [Budget Fusion Testdata](https://github.com/GeraldGmainer/budget-fusion-testdata): Web interface to generate test data
-- [Budget Fusion Assets](https://github.com/GeraldGmainer/budget-fusion-assets): Shared assets like icons, images, and design files
+- [App (Flutter)](https://github.com/GeraldGmainer/moneykoi-app): The Flutter app
+- [Web (empty)](https://github.com/GeraldGmainer/moneykoi-web): The web interface
+- [Supabase backend](https://github.com/GeraldGmainer/moneykoi-supabase): The backend and database setup with Supabase
+- [Test data tools](https://github.com/GeraldGmainer/moneykoi-testdata): Web interface to generate test data
+- [Assets (icons, images, design)](https://github.com/GeraldGmainer/moneykoi-assets): Shared assets like icons, images, and design files
 
 ## Getting Started
 
 To clone this repository along with its submodules:
 
 ```bash
-git clone --recurse-submodules git@github.com:budgetfusion/budget-fusion.git
+git clone --recurse-submodules git@github.com:GeraldGmainer/moneykoi.git
 ```
