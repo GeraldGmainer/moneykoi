@@ -9,7 +9,7 @@ This repository acts as the root workspace and links together all modules of the
 
 A preview of the MoneyKoi app:
 
-<img src="./screenshot.png" height="350" />
+<img src="./screenshot.png" height="500" />
 
 ## 🧩 Project Structure & Submodules
 
