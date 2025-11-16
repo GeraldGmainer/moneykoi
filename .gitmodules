@@ -18,3 +18,7 @@
 	path = moneykoi-web
 	url = git@github.com:GeraldGmainer/moneykoi-web.git
 	branch = main
+[submodule "moneykoi-site"]
+    path = moneykoi-site
+    url = git@github.com:GeraldGmainer/moneykoi-site.git
+    branch = main

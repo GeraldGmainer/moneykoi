@@ -5,10 +5,6 @@ It is designed to help users organize expenses, track habits, and maintain full 
 
 This repository acts as the root workspace and links together all modules of the MoneyKoi ecosystem.
 
-## 📸 Screenshot
-
-A preview of the MoneyKoi app:
-
 <img src="./screenshot.png" height="500" />
 
 ## 🧩 Project Structure & Submodules
