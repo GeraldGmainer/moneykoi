@@ -22,3 +22,6 @@
 	path = moneykoi-site
 	url = git@github.com:GeraldGmainer/moneykoi-site.git
     branch = main
+[submodule "moneykoi-admin"]
+	path = moneykoi-admin
+	url = https://github.com/GeraldGmainer/moneykoi-admin.git
